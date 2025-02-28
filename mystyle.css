@@ -35,6 +35,10 @@ nav a{
     text-decoration: none;
 }
 
+nav a:hover{
+    color:#241c1a;
+}
+
 nav ol{
     display: inline-flex;
     list-style: none;
