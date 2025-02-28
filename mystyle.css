@@ -197,6 +197,9 @@ li{
     background-color: #c1ad99;
     color: #241c1a;
 }
+:hover button#contact-btn {
+    background: #c1ad99;
+}
 button#contact-btn {
     cursor: pointer;
     padding: 20px;
